@@ -16,7 +16,7 @@ body{
 }
 
 .div_web{
-    width: 1400px;
+    width: 87.5rem;
     height: 100vh;
 }
 
@@ -26,16 +26,16 @@ header{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin-top: 100px;
+    margin-top: 6.25rem;
     align-items: center;
 }
 
 .mr_le{
-    margin-left: 100px;
+    margin-left: 6.25rem;
 }
 
 .mr_ri{
-    margin-right: 100px;
+    margin-right: 6.25rem;
 }
 
 
@@ -52,7 +52,7 @@ header{
 }
 
 .header_center ul li{
-    margin: 0 20px;
+    margin: 0 1.25rem;
 }
 
 .header_center ul li a:hover{
@@ -60,11 +60,11 @@ header{
 }
 
 .btn_sign{
-    border-radius: 20px;
+    border-radius: 1.25rem;
     color: #fff;
     background-color: #F44E77;
-    font-size: 17px;
-    padding: 14px 34px 14px 34px;
+    font-size: 1.0625rem;
+    padding: 0.875rem 2.125rem 0.875rem 2.125rem;
     border: none;
     cursor: pointer;
     font-family: roboto;
@@ -79,40 +79,39 @@ header{
 .main_section1{
     display: flex;
     justify-content: space-between;
-    margin-top: 100px;
+    margin-top: 6.25rem;
 }
 
 .main_section1_left{
     width: 50%;
-    margin-top: 70px;
+    margin-top: 4.375rem;
 }
 
 .title_section1_left{
     color: #16194f;
-    font-size: 60px;
+    font-size: 3.75rem;
     font-weight: 500;
-    line-height: 69px;
+    line-height: 4.3125rem;
 }
 
 .desc_section1_left{
-    margin-top: 20px;
+    margin-top: 1.25rem;
     color: #191a53;
-    font-size: 20px;
-    line-height: 31px;
+    font-size: 1.25rem;
+    line-height: 1.9375rem;
 }
 
 .btn_section1_left{
-    width: 180px;
-    margin-top: 20px;
+    width: 11.25rem;
+    margin-top: 1.25rem;
     background-color: #16194F;
-    font-size: 16px;
-    border-radius: 20px;
-    padding: 14px 35px 14px 35px;
+    font-size: 1rem;
+    border-radius: 1.25rem;
+    padding: 0.875rem 2.1875rem 0.875rem 2.1875rem;
     border: none;
-    height: 43px;
+    height: 2.6875rem;
     position: relative;
     cursor: pointer;
-
 }
 
 .btn_section1_left:hover{
@@ -123,16 +122,16 @@ header{
     color: #fff;
     position: absolute;
     left: 0;
-    right: 40px;
-    top: 14px;
+    right: 2.5rem;
+    top: 0.875rem;
 }
 
 .img_btn_section1_left{
-    width: 25px;
-    margin-left: 3px;
+    width: 1.5625rem;
+    margin-left: 0.1875rem;
     position: absolute;
-    left: 120px;
-    top: 10px;
+    left: 7.5rem;
+    top: 0.625rem;
 }
 
 .main_section1_right{
@@ -145,26 +144,26 @@ header{
 .main_section2{
     display: flex;
     justify-content: space-between;
-    margin-top: 100px;
+    margin-top: 6.25rem;
 }
 
 .title_section2_left{
     color: #554dde;
-    font-size: 50px;
-    line-height: 50px;
+    font-size: 3.125rem;
+    line-height: 3.125rem;
 }
 
 .desc_section2_left{
     color: #6a6d9e;
-    font-size: 20px;
-    line-height: 31px;
-    margin-top: 20px;
+    font-size: 1.25rem;
+    line-height: 1.9375rem;
+    margin-top: 1.25rem;
 }
 
-/* Main sec2 */
+/* Main sec3 */
 
 .main_section3{
-    margin-top: 200px;
+    margin-top: 12.5rem;
     display: flex;
 }
 
@@ -175,30 +174,30 @@ header{
 
 .main_section3_left_box1 ,.main_section3_left_box2{
     border: 1px solid black;
-    width: 180px;
-    border-radius: 40px;
-    padding: 25px 20px;
+    width: 11.25rem;
+    border-radius: 2.5rem;
+    padding: 1.5625rem 1.25rem;
 }
 
 .main_section3_left_box_desc{
     font-weight: 300;
-    padding-bottom: 15px;
+    padding-bottom: 0.9375rem;
 }
 
 .main_section3_left_box_price{
     color: #554dde;
-    font-size: 25px;
+    font-size: 1.5625rem;
     font-weight: 700;
 }
 
 .main_section3_left_box2{
     position: absolute;
-    bottom: 300px;
-    left: 290px;
+    bottom: 18.75rem;
+    left: 18.125rem;
 }
 
 .img_main_section3_left{
-    margin-top: 50px;
+    margin-top: 3.125rem;
 }
 
 .main_section3_right{
@@ -207,17 +206,17 @@ header{
 
 .main_section3_right_title{
     color: #554dde;
-    font-size: 50px;
+    font-size: 3.125rem;
 }
 
 .main_section3_right_desc{
-    font-size: 20px;
-    margin-top: 30px;
+    font-size: 1.25rem;
+    margin-top: 1.875rem;
 }
 
 .main_section3_right_btn{
     display: flex;
-    margin-top: 30px;
+    margin-top: 1.875rem;
 }
 
 .main_section3_right_btn:hover{
@@ -228,7 +227,7 @@ header{
 
 .main_section4{
     display: flex;
-    margin-top: 250px;
+    margin-top: 15.625rem;
     align-items: center;
 }
 
@@ -239,23 +238,22 @@ header{
 
 .main_section4_left_title{
     color: #554dde;
-    font-size: 50px;
+    font-size: 3.125rem;
 }
 
 .main_section4_left_desc{
-    font-size: 20px;
-    margin-top: 30px;
+    font-size: 1.25rem;
+    margin-top: 1.875rem;
 }
 
 .main_section4_left_img{
-    margin-top: 120px;
+    margin-top: 7.5rem;
 }
 
 .main_section4_left_desc_20{
     position: absolute;
-    left: 220px;
-    bottom: 25px;
-
+    left: 13.75rem;
+    bottom: 1.5625rem;
 }
 
 .main_section4_right{
@@ -267,7 +265,7 @@ header{
 /* Main sec5 */
 
 .main_section5{
-    margin-top: 150px;
+    margin-top: 9.375rem;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -275,7 +273,7 @@ header{
 }
 
 .main_section5_title{
-    font-size: 35px;
+    font-size: 2.1875rem;
     color: #554dde;
 }
 
@@ -284,19 +282,16 @@ header{
 }
 
 .main_section5_desc{
-    margin-top: 20px;
-    font-size: 20px;
+    margin-top: 1.25rem;
+    font-size: 1.25rem;
 }
-
-
-
 
 
 
 /* Footer */
 
 footer {
-    margin-top: 200px;
+    margin-top: 12.5rem;
     display: flex;
     justify-content: space-between;
     align-items: flex-start; 
